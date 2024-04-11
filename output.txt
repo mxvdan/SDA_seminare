@@ -1,0 +1,40 @@
+
+
+Tendinte in vanzarile lunare pentru diferite categorii de produse:
+
+Luna 1:
+  Total vanzari: 4395545.000000
+  Schimarea procentuala: 0
+Luna 2:
+  Total vanzari: 3726838.250000
+  Schimarea procentuala: 14.98 
+Luna 3:
+  Total vanzari: 4285271.500000
+  Schimarea procentuala: -5.07 
+Luna 4:
+  Total vanzari: 4067991.250000
+  Schimarea procentuala: -5.19 
+Luna 5:
+  Total vanzari: 3857006.000000
+  Schimarea procentuala: 5.36 
+Luna 6:
+  Total vanzari: 4063915.000000
+  Schimarea procentuala: -4.86 
+Luna 7:
+  Total vanzari: 3866246.000000
+  Schimarea procentuala: -7.82 
+Luna 8:
+  Total vanzari: 3563816.750000
+  Schimarea procentuala: 11.48 
+Luna 9:
+  Total vanzari: 3973018.250000
+  Schimarea procentuala: -3.87 
+Luna 10:
+  Total vanzari: 3819168.500000
+  Schimarea procentuala: 22.99 
+Luna 11:
+  Total vanzari: 4697215.500000
+  Schimarea procentuala: -181.31 
+Luna 12:
+  Total vanzari: 3819168.500000
+  Schimarea procentuala: -100.00 
